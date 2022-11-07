@@ -1,0 +1,20 @@
+{
+    "features": [
+        {
+            "title": "Declarative",
+            "p": "React makes it painless to create interactive UIs"
+        },
+        {
+            "title": "Components",
+            "p": "Build encapsulated components that manage their state."
+        },
+        {
+            "title":"Single-Way",
+            "p": "A set of immutable values are passed to the component's."
+        },
+        {
+            "title": "JSX",
+            "p": "Statically-typed, designed to run on modern browsers."
+        }
+    ]
+}
